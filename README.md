@@ -12,3 +12,5 @@
 <http://www.kiu.ac.kr>
 
 [경일대](http://www.kiu.ac.kr)
+
+![고양이](./image/1.jpg)
